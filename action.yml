@@ -1,6 +1,6 @@
 name: 'AWS CLI'
 description: 'GitHub Action for AWS CLI'
-author: ItsKarma
+author: DeployBoard
 branding:
   icon: 'cloud'
   color: 'orange'
